@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @Shaymaa-Badr
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me here 
-- www.linkedin.com/in/shaymaa-badr-a63b93192
-- www.shaymaabadr.com
 
 <!---
 Shaymaa-Badr/Shaymaa-Badr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Shayma, a MERN-stack freelance developer 👨‍💻 working as a freelancer 🚀</div>  
@@ -101,9 +89,9 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://www.shaymaabadr.com" target="_blank">
+<!-- <a href="https://www.shaymaabadr.com" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/shaymaa-badr-a63b93192/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -120,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shaymaa-Badr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
